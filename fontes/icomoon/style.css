@@ -1,0 +1,28 @@
+<picture>
+            <source media="max-width: 1000px" srcset="imagens/eventopq.jpg">
+            <img src="imagens/evento.jpg" alt="Evento">
+            </picture>
+
+            <p>Venha participar <br>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas id, dolore dicta necessitatibus quae deleniti obcaecati
+            quam quia rem ipsa fugit cum ducimus placeat natus porro consequuntur numquam modi ex.</p>
+
+
+================================
+aside.evento img {
+    width: 520px;
+    height: 520px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+aside.evento h1 {
+    border-radius: 10px 10px 0px 0px;
+    min-width: 300px;
+    max-width: 980px;
+    text-shadow: 1px 1px 4px black;
+    background-color: #063d1e;
+   
+}
